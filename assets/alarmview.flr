@@ -1,0 +1,656 @@
+{
+	"version": 24,
+	"artboards": [
+		{
+			"name": "Artboard",
+			"translation": [
+				0,
+				0
+			],
+			"width": 120,
+			"height": 120,
+			"origin": [
+				0,
+				0
+			],
+			"clipContents": true,
+			"color": [
+				0.364705890417099,
+				0.364705890417099,
+				0.364705890417099,
+				1
+			],
+			"nodes": [
+				{
+					"name": "body",
+					"translation": [
+						60.00012969970703,
+						60.00006866455078
+					],
+					"rotation": 0,
+					"scale": [
+						0.9512171745300293,
+						0.9456239938735962
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 1,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Ellipse",
+					"parent": 0,
+					"translation": [
+						1.625,
+						-45.07541275024414
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1.0008198022842407
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 6,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Color",
+					"parent": 1,
+					"opacity": 1,
+					"color": [
+						0,
+						0,
+						0,
+						1
+					],
+					"fillRule": 1,
+					"type": "colorFill"
+				},
+				{
+					"name": "Ellipse Path",
+					"parent": 1,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 10,
+					"height": 10,
+					"type": "ellipse"
+				},
+				{
+					"name": "Ellipse Path",
+					"parent": 0,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								0,
+								-40
+							],
+							"in": [
+								-22.09139060974121,
+								-40
+							],
+							"out": [
+								22.09139060974121,
+								-40
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								40,
+								0
+							],
+							"in": [
+								40,
+								-22.09139060974121
+							],
+							"out": [
+								40,
+								22.09139060974121
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								0,
+								40
+							],
+							"in": [
+								22.09139060974121,
+								40
+							],
+							"out": [
+								-22.09139060974121,
+								40
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-40,
+								0
+							],
+							"in": [
+								-40,
+								22.09139060974121
+							],
+							"out": [
+								-40,
+								-22.09139060974121
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Color",
+					"parent": 0,
+					"opacity": 1,
+					"color": [
+						0,
+						0,
+						0,
+						1
+					],
+					"width": 8,
+					"cap": 1,
+					"join": 0,
+					"trim": 1,
+					"start": 0,
+					"end": 0.92,
+					"offset": 0.42000000000000004,
+					"type": "colorStroke"
+				},
+				{
+					"name": "1hand",
+					"translation": [
+						60.00013732910156,
+						60.00007629394531
+					],
+					"rotation": 0,
+					"scale": [
+						0.9477912783622742,
+						0.9422175288200378
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "1hand",
+					"parent": 6,
+					"translation": [
+						-3.875,
+						0.3125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Color",
+					"parent": 7,
+					"opacity": 1,
+					"color": [
+						0,
+						0,
+						0,
+						1
+					],
+					"fillRule": 1,
+					"type": "colorFill"
+				},
+				{
+					"name": "Rectangle Path",
+					"parent": 7,
+					"translation": [
+						3.875,
+						-12.125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 8,
+					"height": 31,
+					"cornerRadius": 128,
+					"type": "rectangle"
+				},
+				{
+					"name": "2hand",
+					"translation": [
+						60.00013732910156,
+						60.00007629394531
+					],
+					"rotation": 2.356194490192345,
+					"scale": [
+						0.9422175288200378,
+						0.9477912783622742
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "1hand",
+					"parent": 10,
+					"translation": [
+						-3.875,
+						0.3125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 3,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Color",
+					"parent": 11,
+					"opacity": 1,
+					"color": [
+						0,
+						0,
+						0,
+						1
+					],
+					"fillRule": 1,
+					"type": "colorFill"
+				},
+				{
+					"name": "Rectangle Path",
+					"parent": 11,
+					"translation": [
+						3.875,
+						-12.125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 8,
+					"height": 31,
+					"cornerRadius": 128,
+					"type": "rectangle"
+				},
+				{
+					"name": "top_main",
+					"translation": [
+						60.00013732910156,
+						60.00007629394531
+					],
+					"rotation": 0,
+					"scale": [
+						0.9477912783622742,
+						0.9375911355018616
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "top",
+					"parent": 14,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "1hand",
+					"parent": 15,
+					"translation": [
+						-38,
+						-38
+					],
+					"rotation": 0.7853981633974483,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 4,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Color",
+					"parent": 16,
+					"opacity": 1,
+					"color": [
+						0,
+						0,
+						0,
+						1
+					],
+					"fillRule": 1,
+					"type": "colorFill"
+				},
+				{
+					"name": "Rectangle Path",
+					"parent": 16,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 8,
+					"height": 31,
+					"cornerRadius": 128,
+					"type": "rectangle"
+				},
+				{
+					"name": "top",
+					"parent": 14,
+					"translation": [
+						-0.000026899615477304906,
+						0.00015436315152328461
+					],
+					"rotation": 0,
+					"scale": [
+						0.9970529079437256,
+						0.9970537424087524
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "1hand",
+					"parent": 19,
+					"translation": [
+						38,
+						-38
+					],
+					"rotation": 2.356194490192345,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 5,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Color",
+					"parent": 20,
+					"opacity": 1,
+					"color": [
+						0,
+						0,
+						0,
+						1
+					],
+					"fillRule": 1,
+					"type": "colorFill"
+				},
+				{
+					"name": "Rectangle Path",
+					"parent": 20,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 8,
+					"height": 31,
+					"cornerRadius": 128,
+					"type": "rectangle"
+				}
+			],
+			"animations": [
+				{
+					"name": "go",
+					"fps": 60,
+					"duration": 0.6,
+					"isLooping": false,
+					"keyed": [
+						{
+							"component": 0,
+							"rotation": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": 0
+									},
+									{
+										"time": 0.2,
+										"interpolatorType": 1,
+										"value": 0.08726646259971647
+									},
+									{
+										"time": 0.4,
+										"interpolatorType": 1,
+										"value": -0.08726646259971647
+									},
+									{
+										"time": 0.6,
+										"interpolatorType": 1,
+										"value": 0
+									}
+								]
+							]
+						},
+						{
+							"component": 6,
+							"rotation": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": 0
+									}
+								]
+							]
+						},
+						{
+							"component": 10,
+							"rotation": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": 2.356194490192345
+									},
+									{
+										"time": 0.05,
+										"interpolatorType": 1,
+										"value": 2.792526803190927
+									},
+									{
+										"time": 0.15,
+										"interpolatorType": 1,
+										"value": 3.752457891787808
+									},
+									{
+										"time": 0.25,
+										"interpolatorType": 1,
+										"value": 4.974188368183839
+									},
+									{
+										"time": 0.3,
+										"interpolatorType": 1,
+										"value": 5.410520681182422
+									},
+									{
+										"time": 0.35,
+										"interpolatorType": 1,
+										"value": 6.021385919380437
+									},
+									{
+										"time": 0.45,
+										"interpolatorType": 1,
+										"value": 7.243116395776467
+									},
+									{
+										"time": 0.55,
+										"interpolatorType": 1,
+										"value": 8.290313946973065
+									},
+									{
+										"time": 0.6,
+										"interpolatorType": 1,
+										"value": 8.63937979737193
+									}
+								]
+							]
+						},
+						{
+							"component": 14,
+							"rotation": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": 0
+									},
+									{
+										"time": 0.05,
+										"interpolatorType": 1,
+										"value": -0.35953782591083233
+									},
+									{
+										"time": 0.15,
+										"interpolatorType": 1,
+										"value": 0.3490658503988659
+									},
+									{
+										"time": 0.25,
+										"interpolatorType": 1,
+										"value": -0.3490658503988659
+									},
+									{
+										"time": 0.3,
+										"interpolatorType": 1,
+										"value": 0
+									},
+									{
+										"time": 0.35,
+										"interpolatorType": 1,
+										"value": -0.3490658503988659
+									},
+									{
+										"time": 0.45,
+										"interpolatorType": 1,
+										"value": 0.34906585039886595
+									},
+									{
+										"time": 0.55,
+										"interpolatorType": 1,
+										"value": -0.34906585039886595
+									},
+									{
+										"time": 0.6,
+										"interpolatorType": 1,
+										"value": 0
+									}
+								]
+							]
+						}
+					],
+					"animationStart": 0,
+					"animationEnd": 0.6,
+					"type": "animation"
+				}
+			],
+			"type": "artboard"
+		}
+	]
+}
