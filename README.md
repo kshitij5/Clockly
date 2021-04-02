@@ -11,3 +11,5 @@
 - Timer
 
 ![clockly-main-featured-image](https://user-images.githubusercontent.com/44705390/109389093-dd1d2d00-7930-11eb-99e0-505fca485cbc.png)
+
+<a href="https://play.google.com/store/apps/details?id=com.karat18.clockly" rel="Get on Google Play Store" style="text-align:center"><img align="center" width="312" height="106" src="https://user-images.githubusercontent.com/44705390/113397620-f0516b80-93ba-11eb-9a85-81d34abe7dd1.png"></a>
